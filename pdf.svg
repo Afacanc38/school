@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="pdf.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="99.348502"
+     inkscape:cy="33.941125"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2183">
+      <stop
+         style="stop-color:#f6f5f4;stop-opacity:1;"
+         offset="0"
+         id="stop2179" />
+      <stop
+         style="stop-color:#f6f5f4;stop-opacity:1"
+         offset="0.8042236"
+         id="stop2189" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.93232489"
+         id="stop2187" />
+      <stop
+         style="stop-color:#c0bfbc;stop-opacity:1"
+         offset="1"
+         id="stop2181" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath442">
+      <rect
+         style="fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect444"
+         width="24.248394"
+         height="33.866669"
+         x="4.8091378"
+         y="-1.1298789e-06"
+         ry="1.5875" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2183"
+       id="linearGradient2185"
+       x1="12.311393"
+       y1="7.5023842"
+       x2="8.5602007"
+       y2="3.7511921"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect111"
+       style="fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+       d="M 12.311393 0 L 4.8090088 7.5023844 L 4.8090088 32.279167 C 4.8090088 33.15864 5.5170355 33.866667 6.3965088 33.866667 L 27.470158 33.866667 C 28.349631 33.866666 29.057658 33.15864 29.057658 32.279167 L 29.057658 1.5875 C 29.057658 0.70802675 28.349631 1.5666465e-16 27.470158 0 L 12.311393 0 z " />
+    <path
+       style="opacity:1;fill:url(#linearGradient2185);fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+       d="M 4.8090087,7.5023844 12.30538,7.5095835 12.311393,0 Z"
+       id="path1814"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.525px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';opacity:1;fill:#e01b24;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+       x="7.351202"
+       y="20.238508"
+       id="text2245"><tspan
+         sodipodi:role="line"
+         id="tspan2243"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#e01b24;stroke-width:0.264583"
+         x="7.351202"
+         y="20.238508">PDF</tspan></text>
+  </g>
+</svg>
